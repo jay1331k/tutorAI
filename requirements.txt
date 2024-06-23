@@ -1,0 +1,10 @@
+streamlit
+pandas
+scikit-learn
+altair
+openai 
+chromadb 
+langchain
+langchain-community
+faiss-cpu
+
